@@ -1,0 +1,84 @@
+1540182714925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/7j/qc__2nhd335cs5zk753v1wnr0000gn/T/rust_mozprofile.Cx4PgR5x32j3"
+*** You are running in headless mode.
+2018-10-22 00:31:56.485 plugin-container[59113:8685767] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa12f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-22 00:31:56.590 plugin-container[59114:8685847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540182716752	Marionette	INFO	Listening on port 56386
+1540182716800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540182716839	Marionette	DEBUG	[4294967297] Frame script loaded
+1540182716840	Marionette	DEBUG	[4294967297] Frame script registered
+1540182716869	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-22 00:31:57.347 plugin-container[59115:8686004] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540182721075	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540182721759	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182722335	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182727489	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182731466	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182731466	Marionette	DEBUG	[4294967297] Received DOM event unload for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182731589	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1540182731701	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184090933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/7j/qc__2nhd335cs5zk753v1wnr0000gn/T/rust_mozprofile.TQrflPCCoRpl"
+*** You are running in headless mode.
+2018-10-22 00:54:52.182 plugin-container[59263:8707904] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa22f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-22 00:54:52.323 plugin-container[59264:8707953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540184092485	Marionette	INFO	Listening on port 57139
+1540184092494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540184092533	Marionette	DEBUG	[4294967297] Frame script loaded
+1540184092535	Marionette	DEBUG	[4294967297] Frame script registered
+1540184092567	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-22 00:54:53.090 plugin-container[59265:8708087] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540184102337	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540184102827	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184103460	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184108605	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184112987	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184112987	Marionette	DEBUG	[4294967297] Received DOM event unload for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184113111	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184113192	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184114338	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://idata.fundata.com/mutualfunds/Search.aspx
+1540184119539	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+2018-11-13 19:20:18.002 firefox-bin[59111:20292533] kCFURLVolumeIsAutomountedKey missing for file:///private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: Error Domain=NSCocoaErrorDomain Code=257 "The file “FPInstallMountPoint” couldn’t be opened because you don’t have permission to view it." UserInfo={NSURL=file:///private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/, NSFilePath=/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint, NSUnderlyingError=0x1223ee2e0 {Error Domain=NSPOSIXErrorDomain Code=13 "Permission denied"}}
+1542249310149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/7j/qc__2nhd335cs5zk753v1wnr0000gn/T/rust_mozprofile.gIpCy1BfJCyQ"
+*** You are running in headless mode.
+2018-11-14 21:35:11.638 plugin-container[41431:20753764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-11-14 21:35:11.817 plugin-container[41432:20753827] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1542249311951	Marionette	INFO	Listening on port 56865
+1542249312020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542249312062	Marionette	DEBUG	[4294967297] Frame script loaded
+1542249312064	Marionette	DEBUG	[4294967297] Frame script registered
+1542249312103	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-11-14 21:35:12.536 plugin-container[41433:20753995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x950b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1542249320229	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1542249320483	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1542249320823	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1542249321973	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://idata.fundata.com/mutualfunds/Search.aspx
+1542249327174	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542249342497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/7j/qc__2nhd335cs5zk753v1wnr0000gn/T/rust_mozprofile.6s47COkn2eHY"
+*** You are running in headless mode.
+2018-11-14 21:35:43.662 plugin-container[41451:20755584] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-11-14 21:35:43.829 plugin-container[41452:20755620] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1542249343991	Marionette	INFO	Listening on port 56920
+1542249344060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542249344101	Marionette	DEBUG	[4294967297] Frame script loaded
+1542249344102	Marionette	DEBUG	[4294967297] Frame script registered
+1542249344132	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-11-14 21:35:44.595 plugin-container[41453:20755779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1542249351782	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1542249352175	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://idata.fundata.com/mutualfunds/Search.aspx
+1542249352320	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://idata.fundata.com/mutualfunds/Search.aspx
+1542249357477	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://idata.fundata.com/mutualfunds/Search.aspx
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+2018-11-20 21:29:12.697 firefox-bin[59111:24352452] kCFURLVolumeIsAutomountedKey missing for file:///private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: Error Domain=NSCocoaErrorDomain Code=257 "The file “FPInstallMountPoint” couldn’t be opened because you don’t have permission to view it." UserInfo={NSURL=file:///private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/, NSFilePath=/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint, NSUnderlyingError=0x123796910 {Error Domain=NSPOSIXErrorDomain Code=13 "Permission denied"}}
